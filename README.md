@@ -9,6 +9,10 @@ Reusable agent skills for use across projects and coding-agent runtimes.
   continues watching until the pull request closes or needs human help.
 - [`unslop`](skills/unslop/SKILL.md): Writing rules that remove common AI tells
   and make drafts more specific, direct, and human.
+- [`research`](skills/research/SKILL.md): A bounded, source-backed research
+  workflow for current facts and technical investigations.
+- [`skill-creator`](skills/skill-creator/SKILL.md): Instructions for creating and
+  validating portable agent skills.
 
 ## Layout
 
