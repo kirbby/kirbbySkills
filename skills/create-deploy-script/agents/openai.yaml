@@ -1,0 +1,4 @@
+interface:
+  display_name: "T3Code App"
+  short_description: "Build reusable deploy scripts"
+  default_prompt: "Use $t3code-app to create a deploy script for this project."

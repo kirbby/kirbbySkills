@@ -14,6 +14,11 @@ Reusable agent skills for use across projects and coding-agent runtimes.
 - [`skill-creator`](skills/skill-creator/SKILL.md): Instructions for creating and
   validating portable agent skills.
 
+- [`ui-ux-pro-max`](skills/ui-ux-pro-max/SKILL.md): UI/UX guidance with searchable
+  design data, Python search tools, references, and tests.
+- [`create-deploy-script`](skills/create-deploy-script/SKILL.md): Deployment
+  guidance for local validation, SSH transfer, systemd services, and smoke checks.
+
 ## Layout
 
 - `.codex/skills/` contains skills imported in Codex's native layout.
